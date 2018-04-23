@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cohesive-memory-202018",
+  "private_key_id": "e71c8bfed8aa594be1f5c89451a7b2e2bbeee259",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzXR0y6Z0JvLx6\n299glOaX0iiAFIoJgAJqZ6XFfBCOtJE3MXmXTV5EMi24oKUpiCnZxcX0Nc047HTJ\ni27TzrNkzKkkmD8WMArF8wyWYFNQRCSnItW4nQa9McTs0UEVkVHhGEQDQp2M0PII\n1i8lDXdT9/i7eyui2pQrkzZ1V3ioHme54DpFv79/QMFt2tX7w0XbSoSYnEN5d1N3\nS4SRZcss9BooWbiEY6D6UF3NlkWqyIuJQBz1sgecr00QNvjVj87mYItHw+AOVI30\nzY7i+seC+xCmWYaYGrf5CydvY8cp/sq8u8tVbQdWPRfCDLXTe1dA8+FeiBy3OSmU\n4cUbelYhAgMBAAECggEAC+FuDrJEsaFrxqOLv0T9pS7JefpiTlDJWCz3YQZfvmQd\nfk9ro2b/iHreZm1Vo1Oemgssmol5x3x6G+N9etAlN9cKmR7whtK10/jOa6ODwTxS\nRTPcfjcAfEWwqpMNwZT3nHZUAvdFok8wyP8O7mBe+BPjyN9Wu5nI2L4OjGU328LT\naq5imByDtyq/J8YNjh5HZNZQ+QsEgmuLSHA6Rdu5MsF31fvjEwvBezgRdnCuEC0l\nBUj2qWzbagUQsDDNbrCoRFunN9f8IvazIPAAhwsVOUkfH+BRBO1wwt0cXky6aC48\nP1Q8jny6WZNZrv9ndPpSgS+Y+B9ASUhiIiT6+bdopQKBgQDdrKS5SbGf4UrjSpz0\nWOH6i8jq/wBjsyh6W7ngpr3mgjnOlPAOMp15+t3d2e+jW9Cal59KKIDWNCb+VbPX\ntz/afA1+hAYQHNOw0FuTopjaC4vHl7BLLIVqrNRY+hGT4NRqnQvBIyqUuHk5biTn\nFCcpCq94oU52pZ6o+lb7CliHcwKBgQDPIz2ramLvsOweROcdAvTIrfA+aD/YJDBv\njDxD2F/iZc71r2HRikegAtXUE16oZCCe4z1mF5XAMC9z+/FfEc4KaUSCNW26ihM6\ndVkRTfgdctCByf2v4HCUk9+ShJbcmfqkNC572lCNQQTXShxiZGf3g7E0VD2xmI1i\nypkc0sZ/GwKBgQCPCGnVQK7C+cyncipqI7vUPUPsFZP7wMs6gFskkJJx3M9N854d\nmx0vauaj0o6kuoaUaYcXg6D2FfqfG0+KviwOXwMaAjgjR2Z0bUzZqw2zi8WqiL7x\nEo4XseLmcpzK7URCcoj2GynLgmh93Qskq0VFXyav0G1fcyg34igjnZ5X7wKBgQCi\nNZzDsgpMXiZqBdde9sOuq9fpZ0YoAx8TG6TOFJHx/3w1FeTqbPluKwo8i/ais9Z/\n1sBsRKf220Ut9OyuYIkTyh/mP+TwIdSxANiBHqfgl9sE6KOLqZ1AHRUF7mMd2k9X\na63DO9G87F/YIKddvfdU84I/0oCFpUuDQ9jno3/iZQKBgCQAlbZVwoiG1FpEH0ep\nOzk1pfMw43MtKs9mA54CQCDZx9sPak59LCOTityUtifBhtXEs7gmiCsOLgq77EcS\nuW3KocSLK5woO1QrGMognJxDtDRGR2H8xVQI6vnkkE13MjWfkW1Ur29uu3Dm0ZaS\nM+zJlMILPdUFnfwZBOmawDE3\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlp-practice@cohesive-memory-202018.iam.gserviceaccount.com",
+  "client_id": "102380422965768457864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlp-practice%40cohesive-memory-202018.iam.gserviceaccount.com"
+}
